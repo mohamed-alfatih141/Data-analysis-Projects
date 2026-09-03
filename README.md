@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohamed Tarig
+# 👋 Hi, I'm Mohamed el fatih Tarig
 
 🎓 Computer Science & Artificial Intelligence Student  
 📊 Interested in Data Analysis, Data Science & AI

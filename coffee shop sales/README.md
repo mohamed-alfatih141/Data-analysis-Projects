@@ -4,7 +4,8 @@
 This project features an interactive Power BI dashboard designed to analyze the sales performance of various coffee types and evaluate the business impact of a customer loyalty program. The analysis aims to provide actionable insights into product profitability and customer purchasing behavior.
 
    📊 Dashboard Snapshot
-<img width="1772" height="807" alt="Screenshot 2026-09-27 231450" src="https://github.com/user-attachments/assets/8fc6d188-3c6f-48f6-83cb-4a80c5b6b070" />
+ <img width="1443" height="800" alt="Screenshot 2026-09-07 002158" src="https://github.com/user-attachments/assets/287090fa-a76e-44fe-aed6-d128c9e93d41" />
+
 
 
    🛠️ Tools & Technologies Used

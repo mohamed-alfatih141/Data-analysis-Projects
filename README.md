@@ -11,7 +11,7 @@ I'm a Computer Science and Artificial Intelligence student interested in turning
 
 I enjoy working on projects that combine **data analysis, visualization, databases, and artificial intelligence** while continuously improving my technical skills.
 
----## 🌐 Socials:
+---# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohamed-el-fatih-tarig-2a5893423?utm_source=share_via&utm_content=profile&utm_medium=member_ios) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mohamed Tarig) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedtarig132@gmail.com) 
 
 # 💻 Tech Stack:
